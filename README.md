@@ -12,4 +12,4 @@ Therefore, while the ground truth labels are considered to be 'informed', they m
 * Since language is complex and often nuanced, it is possible that different experts may have different opinions on whether two questions have the same meaning or not.
 Therefore, the ground truth labels should be considered as a guide rather than an absolute truth.
 * We should be aware of the subjectivity of the labels and use their own judgment in evaluating the questions.
-*T hey should also consider that there may be cases where the ground truth labels are incorrect or do not accurately reflect the meaning of the questions.
+* They should also consider that there may be cases where the ground truth labels are incorrect or do not accurately reflect the meaning of the questions.
